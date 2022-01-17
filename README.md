@@ -19,3 +19,9 @@ In this project we will try and answer the following questions:
 
 **https://www.liebertpub.com/doi/10.1089/big.2020.0062**
 
+## Supervised By:
+Dr. Sabah Mohammed, PhD, ISP, IEEE Senior Member, Computer Science(Full Professor)
+Department of Computer Science
+Lakehead University
+Ontario, CANADA
+Reference: COMP5800_Fall2021_1142587
