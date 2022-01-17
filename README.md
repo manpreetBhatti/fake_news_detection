@@ -17,5 +17,5 @@ In this project we will try and answer the following questions:
 
 ## Dataset used for training and testing
 
-** https://www.liebertpub.com/doi/10.1089/big.2020.0062 **
+**https://www.liebertpub.com/doi/10.1089/big.2020.0062**
 
