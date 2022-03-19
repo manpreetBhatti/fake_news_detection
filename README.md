@@ -1,4 +1,4 @@
-# Fake News Detection Using Sentence Embedding
+# Fake News Detection Using Siamese BERT Transformer
 
 ## Background and Context 
 
